@@ -1,0 +1,7 @@
+{
+  "name": "GyanKatha: AI Learning Books",
+  "description": "An interactive learning platform for Indian students (Class 1-8) generating custom educational stories and graphical books using AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
